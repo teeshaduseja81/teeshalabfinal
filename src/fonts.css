@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'SFPRODISPLAYBOLD';
+    src: url('./src/fonts/SFPRODISPLAYBOLD.OTF') format('truetype');
+    /* Add more formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
